@@ -1,3 +1,5 @@
+**+2 Excellent!**
+
 Hercules **loved** Deianira. **amauit**
 Deianira **was loved** by Hercules. **amata est**
 Juno **sent** serpents to kill Hercules. **misit**

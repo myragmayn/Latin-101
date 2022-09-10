@@ -19,9 +19,9 @@ Deianira, Deianirae f: “Deianira” (a wife or Hercules)
 Hercules, Herculis m: “Hercules”
 nomen, nominis n: “name”
 
-- Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
+Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
 
-amor Deianirae
+- amor Deianirae
 deus amoris
 amor deorum
 Herculis canis

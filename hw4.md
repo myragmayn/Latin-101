@@ -24,12 +24,33 @@ Use these dictionary entries to answer the following questions:
 
 Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
 
-- amor Deianirae
-deus amoris
-amor deorum
-Herculis canis
-nomen dei
-filii deorum
-nomina filiorum
-Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
+amor Deianirae
+- amor: masculine, nominative, singular
+- Deianirae: feminine, genitive, singular
 
+deus amoris
+- dues: masculine, nominative, singular
+- amoris: masculine, genitive, singular
+
+amor deorum
+- amor: masculine, nominative, singular
+- deorum: masculine, genitive, plural
+
+Herculis canis
+- Herculis: masculine, genitive, singular
+- canis: masculine, nominative, singular
+
+nomen dei
+- nomen: neuter, nominative, singular
+- dei: masculine, genitive, singular
+
+filii deorum
+- filii: masculine, nominative, plural
+- deorum: masculine, genitive, plural
+
+nomina filiorum
+- nomina: neuter, nominative, plural
+- filiorum: masculine, genitive, plural
+
+Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
+- This phrase translates to "the love of Deianira." This could mean either the love that Deianira has for someone, or the love that someone has for Deianira.

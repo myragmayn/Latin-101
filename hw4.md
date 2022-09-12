@@ -2,7 +2,7 @@ What are the three genders of Latin nouns?
 - masculine, feminine, neuter
 
 What are the three pieces of information in a Latin dictionary entry for a noun?
-- gender, case, number
+- Three crucial pieces of information for Latin nouns are their gender, case, and number. In the dictionary entries, the first word tells us the nominative singular, the second tells us the genitive singular, and then it tells us the gender.
 
 How do you figure out what declension a noun belongs to?
 - Look at the ending of its genitive singular to find if it belongs to the first (-ae), second (-i), or third (-is) declension.

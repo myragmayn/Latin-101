@@ -1,3 +1,5 @@
+**+2 Excellent!**
+
 What are the three genders of Latin nouns?
 - masculine, feminine, neuter
 
@@ -29,7 +31,7 @@ amor Deianirae
 - Deianirae: feminine, genitive, singular
 
 deus amoris
-- dues: masculine, nominative, singular
+- deus: masculine, nominative, singular
 - amoris: masculine, genitive, singular
 
 amor deorum
@@ -38,7 +40,7 @@ amor deorum
 
 Herculis canis
 - Herculis: masculine, genitive, singular
-- canis: masculine, nominative, singular
+- canis: masculine, nominative, singular  ⚠️ **OR feminine nominative singular**
 
 nomen dei
 - nomen: neuter, nominative, singular

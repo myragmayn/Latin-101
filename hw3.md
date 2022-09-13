@@ -12,8 +12,8 @@ Imperfect Passive: audibantur❌
 
 Perfect Active: cepit
 Perfect Passive: captum est
-Imperfect Active: capebat❌
-Imperfect Passive: capebatur❌
+Imperfect Active: capebat❌ capiebat
+Imperfect Passive: capebatur❌ capiebatur
 
 uenerunt: third person, plural, perfect, indicative, active, uenio
 interfectus est: third person, singluar, perfect, indicative, passive, interficio

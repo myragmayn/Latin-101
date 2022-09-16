@@ -7,8 +7,8 @@ Imperfect Passive: amabatur
 
 Perfect Active: audiuerunt
 Perfect Passive: audita sunt
-Imperfect Active: audibant❌
-Imperfect Passive: audibantur❌
+Imperfect Active: audibant❌ audiebant
+Imperfect Passive: audibantur❌ audiebantur
 
 Perfect Active: cepit
 Perfect Passive: captum est

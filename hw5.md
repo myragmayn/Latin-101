@@ -1,5 +1,5 @@
 **Meleager was the son of Oineus, king of Calydon.**
-- Meleager erat Oinei filius, Caludonis rex.
+- Meleager filius Oinei erat, regis Caludonis.
 
 **His mother was Althaea.**
 - Is mater erat Althaea.

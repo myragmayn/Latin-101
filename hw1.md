@@ -1,4 +1,4 @@
-**+1. On time, needs revisions**
+**+2 Satisfactory**
 
 - A regular Latin verb has four principal parts.
 - The first and third principal parts are finite verb forms. They are first person singular.

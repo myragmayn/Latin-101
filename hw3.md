@@ -1,4 +1,4 @@
-**+1 Needs revisions.**
+**+2 Satisfactory**
 
 Perfect Active: amauit
 Perfect Passive: amatum est
@@ -7,13 +7,13 @@ Imperfect Passive: amabatur
 
 Perfect Active: audiuerunt
 Perfect Passive: audita sunt
-Imperfect Active: audibant❌ audiebant
-Imperfect Passive: audibantur❌ audiebantur
+Imperfect Active: audibant❌ audiebant ✅
+Imperfect Passive: audibantur❌ audiebantur ✅
 
 Perfect Active: cepit
 Perfect Passive: captum est
-Imperfect Active: capebat❌ capiebat
-Imperfect Passive: capebatur❌ capiebatur
+Imperfect Active: capebat❌ capiebat ✅
+Imperfect Passive: capebatur❌ capiebatur ✅
 
 uenerunt: third person, plural, perfect, indicative, active, uenio
 interfectus est: third person, singluar, perfect, indicative, passive, interficio

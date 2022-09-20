@@ -11,4 +11,4 @@ Apollo, the son of the latter woman, killed the sons of the former woman.
 - Apollo Latonae filius interfecit Niobae filii.
 
 His sister Diana killed her daughters.
-- Diana eius soror
+- Diana soror eius interfecit filiae eius.

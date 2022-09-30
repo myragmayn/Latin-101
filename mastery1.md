@@ -55,7 +55,7 @@ Singular
 
 - Accusative: illam nauem
 
-- Ablative: illa naui
+- Ablative: illa naue
 
 Plural
 

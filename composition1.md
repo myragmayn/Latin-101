@@ -1,10 +1,7 @@
-Prometheus ignem dei cepit.
-(is dei fine to be singular?)
+Active: Prometheus ignem deorum cepit.
+Passive: Ignis deorum a Prometheo captus est.
 
-Prometheus
+Ille ignem hominibus dedit.
 
-ignem
-
-homini
-
-imperfect active? was he continuously giving the fire to mankind?
+s: hercules
+arrows plural ablative

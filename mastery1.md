@@ -1,4 +1,6 @@
-***Identifying Verbs***
+**+1. Excellent! 1 fix (typo?) away from perfect!**
+
+***Identifying Verbs***✅
 
 Antaeum, terrae filium, in Libyā Hercules occidit. hic hospites interficiebat; hunc luctando ille necauit. Cygnum, Martis filium, armis occidit. 
 Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen misit.
@@ -17,7 +19,7 @@ Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen 
 
 - misit: third person, singular, perfect, active, indicative, "sent"
 
-***Noun-Adjective Agreement***
+***Noun-Adjective Agreement*** 
 
 Singular
 
@@ -35,7 +37,7 @@ Plural
 
 - Nominative: priores dei
 
-- Genitive: priorum deorum
+- Genitive: priorum deorum ❌
 
 - Dative: prioribus deis
 
@@ -43,7 +45,7 @@ Plural
 
 - Ablative: prioribus deis
 
-***Pronouns***
+***Pronouns*** ✅
 
 Singular
 
@@ -68,8 +70,8 @@ Plural
 - Accusative: illas naues
 
 - Ablative: illis nauibus
-
-***Verb Forms***
+ 
+***Verb Forms*** ✅
 
 Capio
 

@@ -4,7 +4,7 @@
 
 (2) To what declension does Antaeum belong to?
 
-First declension ❌
+First declension ❌  Second declension
 
 (3) What case is terrae and what other noun is it working with?
 

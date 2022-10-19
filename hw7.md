@@ -4,15 +4,15 @@ Daedalus pennas sibi et Icaro filio fecit.
 
 Bacchus Ariadnen amauit et sibi in coniugium abduxit.
 - Pronoun: sibi
-- Bacchus loved Ariadne and married her to himself.
+- Bacchus loved Ariadne and led her into marriage for himself.
 
 Pelopia gladium eripuit, et in pectus sibi detrusit.
 - Pronoun: sibi
-- Pelopia snatched the sword and pushed it into her chest.
+- Pelopia snatched the sword and thrust it into her chest.
 
 Iuno Venus Minerua formam sibi uindicauerunt.
 - Pronoun: sibi
-- Iuno and Venus laid their claim to the form of Minerva.
+- Iuno, Venus, and Minerva laid claim to beauty for themselves.
 
 Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinciret.
 - Pronouns: ei, sibi

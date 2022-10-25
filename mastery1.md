@@ -1,4 +1,4 @@
-**+1. Excellent! 1 fix (typo?) away from perfect!**
+**+2 Satisfactory**
 
 ***Identifying Verbs***✅
 
@@ -37,7 +37,7 @@ Plural
 
 - Nominative: priores dei
 
-- Genitive: priorum deorum ❌
+- Genitive: priorum deorum ✅
 
 - Dative: prioribus deis
 

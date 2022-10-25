@@ -1,10 +1,10 @@
-**+1 Excellent!  One small grammatical point to revise!**
+**+2 Satisfactory**
 
 `Antaeum`, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites` **interficiebat**; `hunc` luctando *ille* **necauit**. `Cygnum`, Martis filium, armis **occidit**. *Mars* **uenit** et armis propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**. ceto *Hesione* **apposita est** Troiae. `eum` **occidit**; `Laomedonta`, patrem Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**.
 
 (2) To what declension does Antaeum belong to?
 
-First declension ❌  Second declension
+First declension ❌  Second declension ✅
 
 (3) What case is terrae and what other noun is it working with?
 

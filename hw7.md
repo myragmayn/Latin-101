@@ -8,11 +8,11 @@ Bacchus Ariadnen amauit et sibi in coniugium abduxit.
 
 Pelopia gladium eripuit, et in pectus sibi detrusit.
 - Pronoun: sibi
-- Pelopia snatched the sword and thrust it into her chest.
+- Pelopia snatched the sword and thrust it into her own chest.
 
 Iuno Venus Minerua formam sibi uindicauerunt.
 - Pronoun: sibi
-- Iuno, Venus, and Minerva laid claim to beauty for themselves.
+- Iuno, Venus, and Minerua laid claim to beauty for themselves.
 
 Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinciret.
 - Pronouns: ei, sibi

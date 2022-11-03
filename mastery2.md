@@ -29,32 +29,31 @@
 **Case Usage**
 
 Cydippe sent the oxen **into the fields.**
-- in + acc pl
 - in agros
 
 They did not return **with her sons.**
-- cum -pronoun- which case is sons for cum?
+- cum filiis eius
 
 **At that time**, the festival was due to begin.
-- ablative singular; is ea id to say "that"
-- no preposition
+- tempore eo
 
 Cydippe **was not able to go** to the festival.
-- possum
-- imperfect
+- non poteram
 
 Cleops and Bitias **wanted to bring** their mother to the festival.
-- 
+- egerunt
 
 They yoked **themselves** to a wagon.
-- accusative ?
+- se
 
 They pulled the wagon **for many hours**.
-- no preposition
+- multas horas
 
 When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed.
+- eius filiis
 
 Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals.
-- ab + ablative
+- ab ea et ab eius filiis
 
 **That night**, they fell asleep and never woke up.
+- eo nocte

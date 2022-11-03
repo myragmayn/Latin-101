@@ -38,10 +38,10 @@ They did not return **with her sons.**
 - tempore eo
 
 Cydippe **was not able to go** to the festival.
-- non poteram
+- ire non poteram
 
 Cleops and Bitias **wanted to bring** their mother to the festival.
-- egerunt
+- agere ulouerunt
 
 They yoked **themselves** to a wagon.
 - se

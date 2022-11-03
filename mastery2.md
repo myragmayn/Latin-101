@@ -1,10 +1,39 @@
+**Noun Adjective Agreement**
 
+*Singular*
+
+- Nominative: hic imprudens filius
+
+- Genitive: huius imprudentis filii
+
+- Dative: huic imprudenti filio
+
+- Accusative: hunc imprudentem filium
+
+- Ablative: hoc imprudenti filio
+
+
+*Plural*
+
+- Nominative: hi imprudentes filii
+
+- Genitive: horum imprudentium filiorum
+
+- Dative: his imprudentibus filiis
+
+- Accusative: hos imprudentes filios
+
+- Ablative: his imprudentibus filiis
+
+
+**Case Usage**
 
 Cydippe sent the oxen **into the fields.**
 - in + acc pl
+- in agros
 
 They did not return **with her sons.**
-- cum 
+- cum -pronoun- which case is sons for cum?
 
 **At that time**, the festival was due to begin.
 - ablative singular; is ea id to say "that"

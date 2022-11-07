@@ -5,8 +5,8 @@ Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Sim
 What is the grammatical function of Iapetī fīlius prīmus?
 - Iapeti is in the genitive and filius primus is in the nominative, referring to the subject Prometheus. This phrase tells us that Prometheus is the first son, or filius primus, of Iapetus.
 
-??Parse fingēbat and tell me what conjugation it belongs to.
-- Second conjugation
+Parse fingēbat and tell me what conjugation it belongs to.
+- parse it. Second conjugation
 
 What type of adjective is huic, what case is it in, and what word does it agree with?
 - Huic is first declension and in the dative case. It agrees with the word feminae.
@@ -14,7 +14,7 @@ What type of adjective is huic, what case is it in, and what word does it agree 
 Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
 - 
 
-Parse?? data est and indicate what conjugation the verb belongs to.
+Parse data est and indicate what conjugation the verb belongs to.
 
 What type of grammatical construction is ab Iove?
 

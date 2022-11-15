@@ -11,10 +11,10 @@ Since the city **had been captured**, Aeneas fled with his family.
 - captum
 
 While the Greeks **were sacking** the city, fires raged.
-- 
+- occidant
 
 Although Cassandra **said**, again and again, that the horse was a trick, no one paid attention to her.
-
+- dicebat
 
 When the Trojans **saw** the horse, they brought it to the citadel. (“When” refers to the time when they saw it.)
 - uiderunt

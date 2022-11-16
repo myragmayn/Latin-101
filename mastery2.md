@@ -1,4 +1,6 @@
-**Noun Adjective Agreement**
+**+1 Very nice!  Just a few minor revisions.**
+
+**Noun Adjective Agreement**  ✅
 
 *Singular*
 
@@ -38,7 +40,7 @@ They did not return **with her sons.**
 - tempore eo
 
 Cydippe **was not able to go** to the festival.
-- ire non poteram
+- ire non poteram ❌
 
 Cleops and Bitias **wanted to bring** their mother to the festival.
 - agere ulouerunt
@@ -53,7 +55,7 @@ When Cydippe was brought to the festival **by her sons**, all the onlookers were
 - eius filiis
 
 Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals.
-- ab ea et ab eius filiis
+- ab ea et ab eius filiis ❌
 
 **That night**, they fell asleep and never woke up.
-- eo nocte
+- eo❌ nocte

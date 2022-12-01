@@ -1,12 +1,8 @@
-1. "be able" with possum, and infinitive for capture
+1. Cum decem annos Achiuos non posserent cepisse Troiam, ligneum equum fecerunt.
 2. Hyginus dixit equum ab Epeio factum esse.
 3. Duces Achiui se abscondiderunt in equo.
 4. Cassandra dixit duces Achiourum se abscondidisse in equo.
 5. Troiani credebant Achiuos donum Mineruae dare.
 6. Troiani credebant Achiuos isse.
-7. 
-8. main clause: the Trojans understood
-indirect statement: "that"
-sentence starts with "when they saw..." cum + subjunctive "...that" indirect statement "the guards of the gates had been killed" perfect passive
-"the Achaean leaders had been hidden" perfect
-guards vocab: custos, custodis, m.
+7. Non uiderunt Achiuos ex eo equum.
+8. Cum uisi custodias interfectae esse, Troiae cogniterunt Achiuos absconditi esse in equum.

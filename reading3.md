@@ -29,7 +29,8 @@ Exierunt is a form of exeo.
 
 ***TRANSLATION***
 
-When the Achaeans had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered in it. And in the horse they wrote "
+When the Achaeans had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered in it. And in the horse they wrote, "the Greeks gave Minerva a gift," and transferred the military camp to Tenedos. When the Trojans saw it, Priamus led the horse into the temple of Minerva. Although Cassandra said that the horse contained the enemy, faith was not given to her and they placed the horse in front of the temple.
+
 
 Cum Achīvī decem annōs in Troia fuissent, 
 - cum + subjunctive: circumstance

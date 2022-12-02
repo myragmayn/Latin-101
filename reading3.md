@@ -27,7 +27,9 @@ Ei is in the dative case which means it functions as an indirect object of the v
 
 Exierunt is a form of exeo.
 
+***TRANSLATION***
 
+When the Achaeans had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered in it. And in the horse they wrote "
 
 Cum Achīvī decem annōs in Troia fuissent, 
 - cum + subjunctive: circumstance

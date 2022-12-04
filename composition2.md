@@ -1,1 +1,3 @@
-Cydippe boues in agris misit, sed eos ad tempus non reddiderunt. Sacrae illo tempore duxerunt debebant et sacerdos apud fanum adfuit debebat, sed Cydippe do in uiam non poterat. Cleops et Bitias eam in templum uolerunt agere, sic sub iugum iunxerunt se. Cydippen in plaustro multam horam duxerunt. Ob hoc factum, Cydippe ad deos precabatur. Eo nocte, filii fessi acquieuerunt et numquam surrexerunt. Mori optimum donum mortalibus est.
+**+1 Needs revisions, mostly a few details of forms.  Nice composition!**
+
+Cydippe boues in agris❌ misit, sed eos❌ ad tempus non reddiderunt. Sacrae❌ illo tempore duxerunt❌ debebant et sacerdos apud fanum adfuit❌ debebat, sed Cydippe do❌ in uiam non poterat. Cleops et Bitias eam in templum uolerunt❌ agere, sic sub iugum iunxerunt se. Cydippen in plaustro multam horam❌ duxerunt. Ob hoc factum, Cydippe ad❌ deos precabatur. Eo❌ nocte, filii fessi acquieuerunt et numquam surrexerunt. Mori optimum donum mortalibus est.

@@ -1,3 +1,5 @@
+**+1 Needs revisions**
+
 **DUCO**
 
 Imperfect Indicative
@@ -14,7 +16,7 @@ Perfect Indicative
 
 Pluperfect Subjunctive
 - Active: duxisset
-- Passive: ductus esse
+- Passive: ductus esse❌
 
 Present Infinitive
 - Active: ducere
@@ -28,8 +30,8 @@ Perfect Infinitive
 **AUDIO**
 
 Imperfect Indicative
-- Active: audibant
-- Passive: audibantur
+- Active: audibant❌
+- Passive: audibantur❌
 
 Imperfect Subjunctive
 - Active: audirent

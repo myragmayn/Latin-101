@@ -40,7 +40,7 @@ They did not return **with her sons.**
 - tempore eo
 
 Cydippe **was not able to go** to the festival.
-- ire non poteram ❌
+- ire non poteram ❌ poterat
 
 Cleops and Bitias **wanted to bring** their mother to the festival.
 - agere ulouerunt
@@ -58,4 +58,4 @@ Cydippe asked the gods to grant **to her and to her sons** the best gift possibl
 - ab ea et ab eius filiis ❌
 
 **That night**, they fell asleep and never woke up.
-- eo❌ nocte
+- eo❌illo nocte

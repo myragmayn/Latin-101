@@ -1,4 +1,4 @@
-**+1 Very nice!  Just a few minor revisions.**
+**+2 Satisfactory.**
 
 **Noun Adjective Agreement**  ✅
 
